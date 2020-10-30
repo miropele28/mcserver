@@ -1,0 +1,244 @@
+chestData:
+- ==: ChestData
+  playerUUID: e58ec6cf-c632-357b-8186-84a75e65f681
+  holographicTimer: world;-139.5;71.79999995231628;-391.5
+  worldName: world
+  as_timer_id: 2d9a2f87-e4c4-441c-a61a-cd8da63b593e
+  playerName: Kocurik2001
+  isInfinity: false
+  as_owner_id: ecd501b6-627f-43a9-a1d0-59e27a56b012
+  chestDate: 2020-10-18T20:05:48.453Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: TORCH
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;-140.0;71.0;-392.0
+- ==: ChestData
+  playerUUID: 5936a86c-4d2a-3e44-99ed-207c9b76be9c
+  holographicTimer: world_nether;-119.5;64.79999995231628;145.5
+  worldName: world_nether
+  as_timer_id: 5f6374c3-97ab-4f93-984e-f935b807d2e3
+  playerName: miropele28
+  isInfinity: false
+  as_owner_id: d86236ed-089f-4972-9522-532d341ce700
+  chestDate: 2020-10-28T21:19:55.364Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: IRON_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 160
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: IRON_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 105
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 747
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 2
+      Damage: 26
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: GRANITE
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: CRAFTING_TABLE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: NETHERRACK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: BREAD
+    amount: 11
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: TORCH
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: NETHER_WART
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 332
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: IRON_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 65
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: STICK
+    amount: 7
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: IRON_HOE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 12
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: NAME_TAG
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: IRON_INGOT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: GOLD_NUGGET
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: ARROW
+    amount: 49
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: BLACKSTONE
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: COAL
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: BLAZE_ROD
+    amount: 11
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: TORCH
+    amount: 35
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: LEATHER
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: ROTTEN_FLESH
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: SPIDER_EYE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: STRING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: GOLD_NUGGET
+    amount: 52
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: OAK_BOAT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: WARPED_ROOTS
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: WARPED_FUNGUS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: NETHERRACK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: SPECTRAL_ARROW
+    amount: 7
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: ENDER_PEARL
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: NETHERRACK
+    amount: 63
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      Damage: 106
+      blockMaterial: SHIELD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2578
+    type: IRON_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 48
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world_nether;-120.0;64.0;145.0
