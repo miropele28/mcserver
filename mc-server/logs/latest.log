@@ -1,105 +1,187 @@
-[02:52:09] [Craft Scheduler Thread - 1/INFO]: [Vault] Checking for Updates ... 
-[02:52:09] [Craft Scheduler Thread - 1/INFO]: [Vault] No new version available
-[08:52:10] [Craft Scheduler Thread - 2/INFO]: [Vault] Checking for Updates ... 
-[08:52:12] [Craft Scheduler Thread - 2/INFO]: [Vault] No new version available
-[13:23:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7620ms or 152 ticks behind
-[14:52:18] [Craft Scheduler Thread - 3/INFO]: [Vault] Checking for Updates ... 
-[14:52:19] [Craft Scheduler Thread - 3/INFO]: [Vault] No new version available
-[19:42:47] [User Authenticator #1/INFO]: UUID of player miropele28 is 5936a86c-4d2a-3e44-99ed-207c9b76be9c
-[19:42:56] [Server thread/INFO]: miropele28[/193.150.72.111:54974] logged in with entity id 346 at ([world]-183.3876282098315, 88.0, -456.58988981355657)
-[19:42:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10632ms or 212 ticks behind
-[19:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 58844ms or 1176 ticks behind
-[19:45:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14767ms or 295 ticks behind
-[19:46:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34904ms or 698 ticks behind
-[19:47:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30095ms or 601 ticks behind
-[19:48:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22847ms or 456 ticks behind
-[19:49:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29554ms or 591 ticks behind
-[19:49:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11692ms or 233 ticks behind
-[19:50:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5086ms or 101 ticks behind
-[19:51:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28038ms or 560 ticks behind
-[19:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13270ms or 265 ticks behind
-[19:53:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17036ms or 340 ticks behind
-[19:53:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14480ms or 289 ticks behind
-[19:54:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15601ms or 312 ticks behind
-[19:55:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16778ms or 335 ticks behind
-[19:56:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14239ms or 284 ticks behind
-[19:56:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6249ms or 124 ticks behind
-[19:58:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[19:58:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19651ms or 393 ticks behind
-[19:59:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7318ms or 146 ticks behind
-[20:00:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[20:01:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13832ms or 276 ticks behind
-[20:02:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9334ms or 186 ticks behind
-[20:02:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10407ms or 208 ticks behind
-[20:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13057ms or 261 ticks behind
-[20:04:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8629ms or 172 ticks behind
-[20:04:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9652ms or 193 ticks behind
-[20:06:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
-[20:07:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8746ms or 174 ticks behind
-[20:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5327ms or 106 ticks behind
-[20:08:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15301ms or 306 ticks behind
-[20:09:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21228ms or 424 ticks behind
-[20:10:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19444ms or 388 ticks behind
-[20:10:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11115ms or 222 ticks behind
-[20:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14289ms or 285 ticks behind
-[20:12:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8377ms or 167 ticks behind
-[20:13:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15828ms or 316 ticks behind
-[20:13:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24872ms or 497 ticks behind
-[20:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15924ms or 318 ticks behind
-[20:15:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
-[20:16:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14714ms or 294 ticks behind
-[20:17:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13526ms or 270 ticks behind
-[20:17:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10023ms or 200 ticks behind
-[20:18:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36054ms or 721 ticks behind
-[20:19:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15606ms or 312 ticks behind
-[20:20:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12410ms or 248 ticks behind
-[20:21:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12514ms or 250 ticks behind
-[20:21:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9719ms or 194 ticks behind
-[20:22:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10178ms or 203 ticks behind
-[20:23:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8864ms or 177 ticks behind
-[20:24:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26269ms or 525 ticks behind
-[20:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17753ms or 355 ticks behind
-[20:25:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15608ms or 312 ticks behind
-[20:26:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24460ms or 489 ticks behind
-[20:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18485ms or 369 ticks behind
-[20:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5173ms or 103 ticks behind
-[20:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19114ms or 382 ticks behind
-[20:31:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
-[20:32:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
-[20:32:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
-[20:33:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13029ms or 260 ticks behind
-[20:34:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9062ms or 181 ticks behind
-[20:34:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7461ms or 149 ticks behind
-[20:35:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
-[20:35:36] [Server thread/INFO]: miropele28 issued server command: /warp
-[20:35:40] [Server thread/INFO]: miropele28 issued server command: /warp blaze
-[20:36:37] [Server thread/WARN]: miropele28 moved too quickly! -0.3813193242622219,0.0,20.32679997447437
-[20:36:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 55660ms or 1113 ticks behind
-[20:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 54230ms or 1084 ticks behind
-[20:39:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40455ms or 809 ticks behind
-[20:40:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7323ms or 146 ticks behind
-[20:41:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27226ms or 544 ticks behind
-[20:41:26] [Server thread/INFO]: miropele28 issued server command: /home
-[20:41:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8012ms or 160 ticks behind
-[20:41:56] [Server thread/INFO]: miropele28 issued server command: /time set night
-[20:41:56] [Server thread/INFO]: [miropele28: Set the time to 13000]
-[20:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9840ms or 196 ticks behind
-[20:43:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10965ms or 219 ticks behind
-[20:43:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6373ms or 127 ticks behind
-[20:44:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5821ms or 116 ticks behind
-[20:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9651ms or 193 ticks behind
-[20:45:45] [Server thread/INFO]: miropele28 lost connection: Disconnected
-[20:45:46] [Server thread/INFO]: miropele28 left the game
-[20:45:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24395ms or 487 ticks behind
-[20:46:32] [User Authenticator #2/INFO]: UUID of player miropele28 is 5936a86c-4d2a-3e44-99ed-207c9b76be9c
-[20:46:36] [Server thread/INFO]: miropele28[/193.150.72.111:55396] logged in with entity id 5802 at ([world]-184.12476306007227, 87.0, -473.96535223334183)
-[20:46:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5081ms or 101 ticks behind
-[20:46:48] [Server thread/INFO]: miropele28 issued server command: /time set day
-[20:46:48] [Server thread/INFO]: [miropele28: Set the time to 1000]
-[20:47:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37490ms or 749 ticks behind
-[20:48:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28181ms or 563 ticks behind
-[20:49:07] [Server thread/INFO]: miropele28 lost connection: Disconnected
-[20:49:07] [Server thread/INFO]: miropele28 left the game
-[20:53:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6891ms or 137 ticks behind
-[21:13:30] [Craft Scheduler Thread - 7/INFO]: [Vault] Checking for Updates ... 
-[21:13:32] [Craft Scheduler Thread - 7/INFO]: [Vault] No new version available
+[16:00:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[16:00:17] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:00:18] [Worker-Main-2/INFO]: Loaded 7 recipes
+[16:00:23] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[16:00:23] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[16:00:23] [Server thread/INFO]: Loading properties
+[16:00:23] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-b5a13e6-0d8350a (MC: 1.16.2) (Implementing API version 1.16.2-R0.1-SNAPSHOT)
+[16:00:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:00:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:00:23] [Server thread/INFO]: Debug logging is disabled
+[16:00:23] [Server thread/INFO]: Default game type: SURVIVAL
+[16:00:23] [Server thread/INFO]: Generating keypair
+[16:00:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:00:24] [Server thread/INFO]: Using epoll channel type
+[16:00:27] [Server thread/INFO]: [Jecon] Loading Jecon v2.2.0
+[16:00:27] [Server thread/INFO]: [Timber] Loading Timber v1.0.9
+[16:00:27] [Server thread/INFO]: [DeadChest] Loading DeadChest v4.1.1
+[16:00:27] [Server thread/INFO]: [DeadChest] Worldguard not detected : Support is disabled
+[16:00:27] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[16:00:27] [Server thread/INFO]: [SimpleSpawn-Core] Loading SimpleSpawn-Core v1.0.2
+[16:00:27] [Server thread/INFO]: [SimpleSpawn-TpTo] Loading SimpleSpawn-TpTo v1.0.2-1.0.0
+[16:00:27] [Server thread/INFO]: [SimpleSpawn-Jail] Loading SimpleSpawn-Jail v1.0.2-1.0.2
+[16:00:27] [Server thread/INFO]: [SimpleSpawn-Work] Loading SimpleSpawn-Work v1.0.2-1.0.2
+[16:00:27] [Server thread/INFO]: [SimpleSpawn-Home] Loading SimpleSpawn-Home v1.0.2-1.0.2
+[16:00:27] [Server thread/INFO]: [SimpleSpawn-Back] Loading SimpleSpawn-Back v1.0.2-1.0.2
+[16:00:27] [Server thread/INFO]: [SimpleSpawn-Warp] Loading SimpleSpawn-Warp v1.0.2-1.0.2
+[16:00:27] [Server thread/INFO]: [Jecon] Enabling Jecon v2.2.0
+[16:00:27] [Server thread/INFO]: [Jecon] Use SQLite
+[16:00:27] [Server thread/INFO]: jecon-hikari - Starting...
+[16:00:27] [Server thread/INFO]: jecon-hikari - Start completed.
+[16:00:27] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[16:00:27] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[16:00:27] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[16:00:27] [Server thread/WARN]: [Jecon] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.3-b131 which is not a depend, softdepend or loadbefore of this plugin.
+[16:00:27] [Server thread/INFO]: [Jecon] Hooked Vault
+[16:00:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:00:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:00:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:00:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:00:27] [Server thread/INFO]: Preparing level "world"
+[16:00:28] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:00:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:00:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:00:28] [Server thread/INFO]: View Distance: 5
+[16:00:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:00:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:00:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:00:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:00:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:00:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:00:28] [Server thread/INFO]: Mob Spawn Range: 6
+[16:00:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[16:00:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:00:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:00:28] [Server thread/INFO]: Max TNT Explosions: 100
+[16:00:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:00:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:00:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:00:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:00:28] [Server thread/INFO]: View Distance: 5
+[16:00:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:00:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:00:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:00:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:00:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:00:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:00:28] [Server thread/INFO]: Mob Spawn Range: 6
+[16:00:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[16:00:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:00:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:00:28] [Server thread/INFO]: Max TNT Explosions: 100
+[16:00:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:00:28] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:00:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:00:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:00:28] [Server thread/INFO]: View Distance: 5
+[16:00:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:00:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:00:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:00:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:00:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:00:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:00:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:00:28] [Server thread/INFO]: Mob Spawn Range: 6
+[16:00:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[16:00:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:00:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:00:28] [Server thread/INFO]: Max TNT Explosions: 100
+[16:00:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:00:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:00:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:00:32] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[16:00:32] [Server thread/INFO]: Preparing spawn area: 18%
+[16:00:34] [Server thread/INFO]: Time elapsed: 5451 ms
+[16:00:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:00:35] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:35] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:35] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:35] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:00:36] [Server thread/INFO]: Preparing spawn area: 83%
+[16:00:37] [Worker-Main-3/INFO]: Preparing spawn area: 97%
+[16:00:37] [Worker-Main-3/INFO]: Preparing spawn area: 97%
+[16:00:38] [Worker-Main-3/INFO]: Preparing spawn area: 97%
+[16:00:38] [Worker-Main-3/INFO]: Preparing spawn area: 97%
+[16:00:39] [Worker-Main-3/INFO]: Preparing spawn area: 98%
+[16:00:39] [Worker-Main-3/INFO]: Preparing spawn area: 99%
+[16:00:39] [Server thread/INFO]: Time elapsed: 5937 ms
+[16:00:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[16:00:41] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[16:00:42] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[16:00:42] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[16:00:43] [Worker-Main-3/INFO]: Preparing spawn area: 88%
+[16:00:43] [Worker-Main-3/INFO]: Preparing spawn area: 94%
+[16:00:44] [Server thread/INFO]: Time elapsed: 4318 ms
+[16:00:44] [Server thread/INFO]: [Timber] Enabling Timber v1.0.9
+[16:00:44] [Server thread/INFO]: Timber Log Materials: [SPRUCE_LOG, OAK_LOG, JUNGLE_LOG, BIRCH_LOG, DARK_OAK_LOG, ACACIA_LOG]
+[16:00:44] [Server thread/INFO]: Timber Axe Materials: [WOODEN_AXE, DIAMOND_AXE, STONE_AXE, NETHERITE_AXE, GOLDEN_AXE, IRON_AXE]
+[16:00:44] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.1.1
+[16:00:51] [Server thread/INFO]: [SimpleSpawn-Core] Enabling SimpleSpawn-Core v1.0.2
+[16:00:51] [Server thread/INFO]: [SimpleSpawn-TpTo] Enabling SimpleSpawn-TpTo v1.0.2-1.0.0
+[16:00:51] [Server thread/INFO]: [SimpleSpawn-Jail] Enabling SimpleSpawn-Jail v1.0.2-1.0.2
+[16:00:51] [Server thread/INFO]: [SimpleSpawn-Work] Enabling SimpleSpawn-Work v1.0.2-1.0.2
+[16:00:51] [Server thread/INFO]: [SimpleSpawn-Home] Enabling SimpleSpawn-Home v1.0.2-1.0.2
+[16:00:51] [Server thread/INFO]: [SimpleSpawn-Back] Enabling SimpleSpawn-Back v1.0.2-1.0.2
+[16:00:51] [Server thread/INFO]: [SimpleSpawn-Warp] Enabling SimpleSpawn-Warp v1.0.2-1.0.2
+[16:00:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:00:51] [Server thread/INFO]: Done (23.413s)! For help, type "help"
+[16:00:51] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
+[16:00:52] [Craft Scheduler Thread - 0/INFO]: [Vault] No new version available
